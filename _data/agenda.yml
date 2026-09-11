@@ -2,7 +2,7 @@ saturday1:
   - title: "Plenary talk by Stephen Boyd"
     time: 9:00-9:30
     image: boyd.png
-    text:  <b class='title-random'>🏅 TBD </b><p class='break-random'> <br> Samsung Professor in the School of Engineering and Professor of Electrical Engineering at Stanford, where he chairs the EE department. His work is on convex optimization and its applications in control, signal processing, machine learning, and finance.</p>
+    text:  <b class='title-random'>🏅 TBD </b><p class='break-random'> <br> Samsung Professor in the School of Engineering and Professor of Electrical Engineering at Stanford, where he chairs the EE department. His work is on convex optimization and its applications in control, signal processing, machine learning, and finance. Few researchers have done more to close the gap between a published mathematical result and software that anyone can actually run, and Dr. Boyd is one of them. </p>
   - title: "Plenary talk by Vanja Josifovski"
     time:  9:30-10:00
     place: ""
@@ -13,7 +13,6 @@ saturday1:
     place: ""
     image: evi_cafe.png
     text:  <p class='break-random'><br>Time for a peer-reviewed caffeine intervention. Refuel before the next round of evidence.</p>
-    text:  "<b class='title-random'>🍁 Evidence & Open Publishing: Scientific principles in action </b><p class='break-random'> <br> Patrick Bermudez is the executive director of the Canadian Open Neuroscience Platform (CONP). His talk will situate Evidence in the Open Science landscape.</p>"
   - title: "Evidence team: Agah Karakuzu"
     time: 11:00-11:30
     place: ""
