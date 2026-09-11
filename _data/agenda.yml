@@ -1,38 +1,34 @@
 saturday1:
-  - title: "Plenary talk by John P.A. Ioannidis"
+  - title: "Plenary talk by Stephen Boyd"
     time: 9:00-9:30
-    image: john_talk.png
-    text:  <b class='title-random'>🏅 Reproducible and useful research in the AI era</b><p class='break-random'> <br> John Ioannidis is a Greek-American physician, scientist, and writer, as well as a professor at Stanford University. His work focuses on meta-research, the study of how science is conducted. He is also known for authoring one of the most influential papers in modern science, 'Why Most Research Findings Are False'.</p>
-  - title: "Plenary talk by Alan C. Evans"
+    image: boyd.png
+    text:  <b class='title-random'>🏅 TBD </b><p class='break-random'> <br> Samsung Professor in the School of Engineering and Professor of Electrical Engineering at Stanford, where he chairs the EE department. His work is on convex optimization and its applications in control, signal processing, machine learning, and finance.</p>
+  - title: "Plenary talk by Vanja Josifovski"
     time:  9:30-10:00
     place: ""
-    image: alan_talk.png
-    text:  <b class='title-random'>🏅 A global infrastructure for data democratization</b><p class='break-random'> <br> Alan Charles Evans is a Welsh-born Canadian neuroscientist who is a Distinguished James McGill Professor of Neurology and Neurosurgery, Psychiatry and Biomedical Engineering, and holds the Victor Dahdaleh Chair in Neurosciences at McGill University.</p>
+    image: vanja.png
+    text:  <b class='title-random'>🏅 TBD</b><p class='break-random'> <br> Builder of large scale systems that reason over structured and relational data. He was a research scientist at IBM and Yahoo Research, then CTO at Pinterest and later CTO of Homes at Airbnb, before co-founding Kumo AI, whose relational foundation models make predictions directly over a database graph rather than a flattened feature table. NVIDIA acquired Kumo in June 2026 and he moved there with it. His career is a long argument that the structure between records is where the signal lives.</p>
   - title: "Coffee Break"
     time:  10:00-10:30
     place: ""
     image: evi_cafe.png
     text:  <p class='break-random'><br>Time for a peer-reviewed caffeine intervention. Refuel before the next round of evidence.</p>
-  - title: "Evidence team: Patrick Bermudez"
-    time: 10:30-11:00
-    place: ""
-    image: patrick_talk.png
     text:  "<b class='title-random'>🍁 Evidence & Open Publishing: Scientific principles in action </b><p class='break-random'> <br> Patrick Bermudez is the executive director of the Canadian Open Neuroscience Platform (CONP). His talk will situate Evidence in the Open Science landscape.</p>"
   - title: "Evidence team: Agah Karakuzu"
     time: 11:00-11:30
     place: ""
     image: agah_talk.png
-    text:  "<b class='title-random'>💻 Building evidence </b><p class='break-random'><br>Agah Karakuzu serves as the principal engineer and technical lead for Evidence, guiding its architecture and development. His talk will explore its newest advances in response to the accelerating pace of AI: the woven literature.</p>"
+    text:  "<b class='title-random'>🤖 Agents of the Woven Literature </b><p class='break-random'><br>Agah Karakuzu serves as the principal engineer and technical lead for Evidence, guiding its architecture and development. His talk will explore its newest advances in response to the accelerating pace of AI: the woven literature.</p>"
   - title: "Lunch Break"
     time: 11:30-13:00
     place: ""
     image: evi_food.png
     text:  <p class='break-random'><br>Please update your biological runtime with carbs. Failure to patch may cause spontaneous segmentation faults.</p>
-  - title: "Plenary talk by Cesar Hidalgo"
+  - title: "Plenary talk by Xue (Steve) Liu"
     time: 13:00-13:30
     place: ""
-    image: hidalgo_talk.png
-    text:  <b class="title-random">🏅 Understanding scientific impact beyond rankings </b><p class="break-random"><br>César A. Hidalgo is a Chilean-Spanish-American scholar known for his contributions to economic complexity and for his applied work on data visualization and artificial intelligence. Hidalgo is a tenured professor at the Toulouse School of Economics’ (TSE) Department of Social and Behavioral Sciences</p>
+    image: liu.png
+    text:  <b class="title-random">🏅 TBD </b><p class="break-random"><br>Associate VP for Research and Professor of Machine Learning and Computer Science at MBZUAI, on leave from McGill University's School of Computer Science. Previously VP R&D and Chief Scientist at Samsung AI Center Montreal, and Chief Scientist at Tinder, with earlier stints at HP Labs and IBM T. J. Watson. IEEE Fellow, Fellow of the Canadian Academy of Engineering, former chair of ACM SIGBED, author of over 400 papers across intelligent computing systems, IoT, cyber physical systems, and sustainable computing.</p>
   - title: "Lightning Talks"
     time: 13:30-14:00
     image: evi_light.png
