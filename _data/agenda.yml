@@ -6,7 +6,7 @@ saturday1:
   - title: "Plenary talk by Vanja Josifovski"
     time:  9:30-10:00
     place: ""
-    image: vanja.png
+    image: organization/vanja.png
     text:  <b class='title-random'>🏅 TBD</b><p class='break-random'> <br> Builder of large scale systems that reason over structured and relational data. He was a research scientist at IBM and Yahoo Research, then CTO at Pinterest and later CTO of Homes at Airbnb, before co-founding Kumo AI, whose relational foundation models make predictions directly over a database graph rather than a flattened feature table. NVIDIA acquired Kumo in June 2026 and he moved there with it. His career is a long argument that the structure between records is where the signal lives.</p>
   - title: "Coffee Break"
     time:  10:00-10:30
