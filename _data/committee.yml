@@ -1,0 +1,141 @@
+people:
+  - name: "Nikola Stikov"
+    image:  nstik.jpg
+    affiliation: Polytechnique Montreal
+    url: https://www.polymtl.ca/expertises/en/stikov-nikola
+  - name: "Agah Karakuzu"
+    image:  AgahKarakuzu.jpg
+    affiliation: Polytechnique Montreal
+    url: https://agah.dev
+  - name: "Bas Rokers"
+    image:  rokers.jpg
+    affiliation: NYU Abu Dhabi
+    url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/bas-rokers.html
+  - name: "Kartik Sreenivasan"
+    image:  kartik.jpg
+    affiliation: NYU Abu Dhabi
+    url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/kartik-sreenivasan.html
+  - name: "Dmitry Novikov"
+    image:  novikov.png
+    affiliation: NYU Langone Health
+    url: https://med.nyu.edu/faculty/dmitry-novikov
+  - name: "Shigeki Aoki"
+    image:  shigeki.jpg
+    affiliation: Juntendo University Tokyo
+    url: https://en.juntendo.ac.jp/research/researcher-profiles/aoki_shigeki.html
+  - name: "Rowan Cockett"
+    image:  rowan.jpg
+    affiliation: Curvenote and CSF
+    url: https://row1.ca/
+  - name: "Ordan Chukaliev"
+    image:  ordan.jpg
+    affiliation: UKIM Skopje
+    url: https://www.researchgate.net/profile/Ordan-Chukaliev
+  - name: "Biljana Angelova"
+    image:  biljana.jpg
+    affiliation: UKIM Skopje
+  - name: "Valentina Gecevska"
+    image:  gecevska.jpg
+    affiliation: UKIM Skopje
+  - name: "Patrick Bermudez"
+    image:  bermudez.jpg
+    affiliation: McGill University
+    url: https://www.researchgate.net/profile/Patrick-Bermudez
+  - name: "Mathieu Boudreau"
+    image:  MathieuBoudreau.jpg
+    affiliation: Polytechnique Montreal
+    url: https://github.com/mathieuboudreau
+  - name: "Samir Das"
+    image:  das.jpg
+    affiliation: McGill University
+    url: https://www.bic.mni.mcgill.ca/~samir/
+  - name: "Lune Bellec"
+    image:  bellec.jpg
+    affiliation: Universite de Montréal
+    url: https://mila.quebec/en/directory/lune-bellec
+  - name: "Morane Bienvenu"
+    image: morane.png
+    affiliation: Polytechnique Montreal
+speakers:
+  - name: "Alan Evans"
+    image: evans.jpg
+    affiliation: McGill University
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Shigeki Aoki"
+    image:  shigeki.jpg
+    affiliation: Juntendo University Tokyo
+  - name: "Peter Bandettini"
+    image:  pband.jpg
+    affiliation: National Institute of Mental Health
+    twitter: #
+    linkedin: #
+  - name: "Biljana Angelova"
+    image:  biljana.jpg
+    affiliation: UKIM Skopje
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Peter Jezzard"
+    image:  jezzard.jpg
+    affiliation: University of Oxford
+    twitter: #
+    linkedin: #
+  - name: "Nikola Stikov"
+    image:  NikolaStikov.jpg
+    affiliation: École Polytechnique de Montréal
+  - name: "Chris Holdgraf"
+    image:  chold.jpeg
+    affiliation: 2i2c
+  - name: "Bas Rokers"
+    image:  rokers.jpg
+    affiliation: NYU Abu Dhabi
+  - name: "Ordan Chukaliev"
+    image:  ordan.jpg
+    affiliation: UKIM Skopje
+    twitter: #
+    linkedin: #
+  - name: "Valentina Gecevska"
+    image:  gecevska.jpg
+    affiliation: UKIM Skopje
+    researchgate: #
+  - name: "Masaaki Hori"
+    image:  hori.jpg
+    affiliation: Toho University
+  - name: "Masaya Takahashi"
+    image:  masaya.png
+    affiliation: Juntendo University Tokyo
+  - name: "Sun Zhe"
+    image:  sunzhe.jpeg
+    affiliation: Juntendo University
+  - name: "Akifumi Hagiwara"
+    image:  akifumi.png
+    affiliation: Juntendo University
+  - name: "Rachel Harding"
+    image:  harding.webp
+    affiliation: University of Toronto
+  - name: "Adrien Peyrache"
+    image:  peyrache_adrien.png
+    affiliation: McGill University
+  - name: "Aleksandar Skeparovski"
+    image:  skeparov.jpg
+    affiliation: UKIM Skopje
+  - name: "Ariel Rokem"
+    image:  rokem.jpeg
+    affiliation: University of Washington
+  - name: "Pierre Lune Bellec"
+    image:  bellec.jpg
+    affiliation: Universite de Montréal
+  - name: "Patrick Bermudez"
+    image:  bermudez.jpg
+    affiliation: McGill University
+    
+  - name: "Samir Das"
+    image:  das.jpg
+    affiliation: McGill University
+    
+
+  - name: "Agah Karakuzu"
+    image:  AgahKarakuzu.jpg
+    affiliation: École Polytechnique de Montréal
