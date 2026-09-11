@@ -1,13 +1,13 @@
 people:
-  - name: "John P.A. Ioannidis"
-    image:  ioannidis.jpeg
-    affiliation: Stanford University
-    url: https://med.stanford.edu/profiles/john-ioannidis
-  - name: "Alan C. Evans"
-    image:  evans.jpg
-    affiliation: McGill University
-    url: https://www.mcgill.ca/neuro/alan-charles-evans-oc-phd-frs-frsc-fcahs-fcas
-  - name: "Cesar Hidalgo"
-    image:  hidalgo.png
-    affiliation: Toulouse School of Economics
-    url: https://cesarhidalgo.com/biography
+  - name: "Stephen Boyd"
+    image:  boyd.png
+    affiliation: Stanford University (USA)
+    url: https://web.stanford.edu/~boyd/
+  - name: "Vanja Josifovski"
+    image:  vanja.png
+    affiliation: NVIDIA (USA)
+    url: https://scholar.google.com/citations?user=-QpV234LAAsC&hl=en
+  - name: "Xue (Steve) Liu"
+    image:  liu.png
+    affiliation: MBZUAI (UAE), McGill University (Canada)
+    url: https://cs.mcgill.ca/~xueliu/site/intro.html
