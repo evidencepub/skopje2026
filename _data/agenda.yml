@@ -33,7 +33,7 @@ saturday1:
     place: ""
     image: evi_food.png
     text:  <p class='break-random'><br>Please update your biological runtime with carbs. Failure to patch may cause spontaneous segmentation faults.</p>
-  - title: "Social Gathering"
-    text: <p class='break-random'><br>Initiating peer-to-peer human networking protocol. No API keys required.</p>
+  - title: "Evidence Social"
+    text: <b class='title-random'>🎉 Sponsored by Foundation KANTAROT</b><p class='break-random'><br>Initiating peer-to-peer human networking protocol. No API keys required.<br><br>📍 KANTAROT Headquarters, Boul. Ilinden 41, Skopje — <a href="https://maps.app.goo.gl/hpjMcL3FCcJ4RYZw6" target="_blank">view on map</a></p>
     time: 21:00-23:00
     image: 7.png
