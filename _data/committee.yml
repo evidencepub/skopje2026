@@ -11,32 +11,14 @@ people:
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
     url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/bas-rokers.html
-  - name: "Kartik Sreenivasan"
-    image:  kartik.jpg
-    affiliation: NYU Abu Dhabi
-    url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/kartik-sreenivasan.html
   - name: "Dmitry Novikov"
     image:  novikov.png
     affiliation: NYU Langone Health
     url: https://med.nyu.edu/faculty/dmitry-novikov
-  - name: "Shigeki Aoki"
-    image:  shigeki.jpg
-    affiliation: Juntendo University Tokyo
-    url: https://en.juntendo.ac.jp/research/researcher-profiles/aoki_shigeki.html
-  - name: "Rowan Cockett"
-    image:  rowan.jpg
-    affiliation: Curvenote and CSF
-    url: https://row1.ca/
   - name: "Ordan Chukaliev"
     image:  ordan.jpg
     affiliation: UKIM Skopje
     url: https://www.researchgate.net/profile/Ordan-Chukaliev
-  - name: "Biljana Angelova"
-    image:  biljana.jpg
-    affiliation: UKIM Skopje
-  - name: "Valentina Gecevska"
-    image:  gecevska.jpg
-    affiliation: UKIM Skopje
   - name: "Patrick Bermudez"
     image:  bermudez.jpg
     affiliation: McGill University
@@ -53,9 +35,38 @@ people:
     image:  bellec.jpg
     affiliation: Universite de Montréal
     url: https://mila.quebec/en/directory/lune-bellec
-  - name: "Morane Bienvenu"
-    image: morane.png
-    affiliation: Polytechnique Montreal
+  - name: "Alan Evans"
+    image:  evans.jpg
+    affiliation: McGill University
+    url: https://scholar.google.com/citations?user=FxPzh9kAAAAJ&hl=en&oi=ao
+  - name: "Sun Zhe"
+    image:  sunzhe.jpeg
+    affiliation: Juntendo University
+    url: https://scholar.google.com/citations?hl=en&user=lKv_4o8AAAAJ
+  - name: "Mijalche Santa"
+    image:  santa.jpg
+    affiliation: UKIM Skopje
+    url: https://eccf.ukim.edu.mk/en/about-us-2/faculty-staff/full-professors/mijalche-santa-phd/
+  - name: "Petre Lameski"
+    image:  lameski.jpg
+    affiliation: UKIM Skopje
+    url: https://scholar.google.com/citations?hl=en&user=eidg6REAAAAJ
+  - name: "Vladimir Trajkovik"
+    image:  trajkovik.jpg
+    affiliation: UKIM Skopje
+    url: https://scholar.google.com/citations?hl=en&user=M5LDCMUAAAAJ
+  - name: "Tommy Boshkovski"
+    image:  TommyBoshkovski.jpg
+    affiliation: Brainster Next College
+    url: https://www.researchgate.net/profile/Tommy-Boshkovski
+  - name: "Viktor Stojkoski"
+    image:  stojkoski.jpg
+    affiliation: UKIM Skopje
+    url: https://scholar.google.com/citations?user=E-_l7C0AAAAJ&hl=en&oi=ao
+  - name: "Kiril Gashteovski"
+    image:  gashteovski.jpg
+    affiliation: NEC Laboratories Europe
+    url: https://scholar.google.com/citations?hl=en&user=ZO5DW7MAAAAJ
 speakers:
   - name: "Alan Evans"
     image: evans.jpg
