@@ -7,6 +7,10 @@ people:
     image:  AgahKarakuzu.jpg
     affiliation: Polytechnique Montreal
     url: https://agah.dev
+  - name: "Alan Evans"
+    image:  evans.jpg
+    affiliation: McGill University
+    url: https://scholar.google.com/citations?user=FxPzh9kAAAAJ&hl=en&oi=ao
   - name: "Bas Rokers"
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
@@ -15,6 +19,10 @@ people:
     image:  novikov.png
     affiliation: NYU Langone Health
     url: https://med.nyu.edu/faculty/dmitry-novikov
+  - name: "Sun Zhe"
+    image:  sunzhe.jpeg
+    affiliation: Juntendo University
+    url: https://scholar.google.com/citations?hl=en&user=lKv_4o8AAAAJ
   - name: "Ordan Chukaliev"
     image:  ordan.jpg
     affiliation: UKIM Skopje
@@ -23,26 +31,6 @@ people:
     image:  bermudez.jpg
     affiliation: McGill University
     url: https://www.researchgate.net/profile/Patrick-Bermudez
-  - name: "Mathieu Boudreau"
-    image:  MathieuBoudreau.jpg
-    affiliation: Polytechnique Montreal
-    url: https://github.com/mathieuboudreau
-  - name: "Samir Das"
-    image:  das.jpg
-    affiliation: McGill University
-    url: https://www.bic.mni.mcgill.ca/~samir/
-  - name: "Lune Bellec"
-    image:  bellec.jpg
-    affiliation: Universite de Montréal
-    url: https://mila.quebec/en/directory/lune-bellec
-  - name: "Alan Evans"
-    image:  evans.jpg
-    affiliation: McGill University
-    url: https://scholar.google.com/citations?user=FxPzh9kAAAAJ&hl=en&oi=ao
-  - name: "Sun Zhe"
-    image:  sunzhe.jpeg
-    affiliation: Juntendo University
-    url: https://scholar.google.com/citations?hl=en&user=lKv_4o8AAAAJ
   - name: "Mijalche Santa"
     image:  santa.jpg
     affiliation: UKIM Skopje
@@ -55,14 +43,22 @@ people:
     image:  trajkovik.jpg
     affiliation: UKIM Skopje
     url: https://scholar.google.com/citations?hl=en&user=M5LDCMUAAAAJ
-  - name: "Tommy Boshkovski"
-    image:  TommyBoshkovski.jpg
-    affiliation: Brainster Next College
-    url: https://www.researchgate.net/profile/Tommy-Boshkovski
   - name: "Viktor Stojkoski"
     image:  stojkoski.jpg
     affiliation: UKIM Skopje
     url: https://scholar.google.com/citations?user=E-_l7C0AAAAJ&hl=en&oi=ao
+  - name: "Tommy Boshkovski"
+    image:  TommyBoshkovski.jpg
+    affiliation: Brainster Next College
+    url: https://www.researchgate.net/profile/Tommy-Boshkovski
+  - name: "Mathieu Boudreau"
+    image:  MathieuBoudreau.jpg
+    affiliation: Polytechnique Montreal
+    url: https://github.com/mathieuboudreau
+  - name: "Samir Das"
+    image:  das.jpg
+    affiliation: McGill University
+    url: https://www.bic.mni.mcgill.ca/~samir/
   - name: "Kiril Gashteovski"
     image:  gashteovski.jpg
     affiliation: NEC Laboratories Europe
