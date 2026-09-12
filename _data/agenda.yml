@@ -8,8 +8,13 @@ saturday1:
     place: ""
     image: organization/vanja.png
     text:  <b class='title-random'>🏅 TBD</b><p class='break-random'> <br> Builder of large scale systems that reason over structured and relational data. He was a research scientist at IBM and Yahoo Research, then CTO at Pinterest and later CTO of Homes at Airbnb, before co-founding Kumo AI, whose relational foundation models make predictions directly over a database graph rather than a flattened feature table. NVIDIA acquired Kumo in June 2026 and he moved there with it. His career is a long argument that the structure between records is where the signal lives.</p>
+  - title: "Plenary talk by Xue (Steve) Liu"
+    time: 10:00-10:30
+    place: ""
+    image: liu.png
+    text:  <b class="title-random">🏅 TBD </b><p class="break-random"><br>Associate VP for Research and Professor of Machine Learning and Computer Science at MBZUAI, on leave from McGill University's School of Computer Science. Previously VP R&D and Chief Scientist at Samsung AI Center Montreal, and Chief Scientist at Tinder, with earlier stints at HP Labs and IBM T. J. Watson. IEEE Fellow, Fellow of the Canadian Academy of Engineering, former chair of ACM SIGBED, author of over 400 papers across intelligent computing systems, IoT, cyber physical systems, and sustainable computing.</p>
   - title: "Coffee Break"
-    time:  10:00-10:30
+    time:  10:30-11:00
     place: ""
     image: evi_cafe.png
     text:  <p class='break-random'><br>Time for a peer-reviewed caffeine intervention. Refuel before the next round of evidence.</p>
@@ -18,25 +23,16 @@ saturday1:
     place: ""
     image: agah_talk.png
     text:  "<b class='title-random'>🤖 Agents of the Woven Literature </b><p class='break-random'><br>Agah Karakuzu serves as the principal engineer and technical lead for Evidence, guiding its architecture and development. His talk will explore its newest advances in response to the accelerating pace of AI: the woven literature.</p>"
+  - title: Townhall Meeting with Sun Zhe, Bas Rokers, Nikola Stikov, and Ordan Chukaliev
+    text: <b class='title-random'>⎈ Evidence Chairs </b><p class='break-random'><br>Sun Zhe (Juntendo University), Bas Rokers (NYU Abu Dhabi), Nikola Stikov (Polytechnique Montreal), and Ordan Chukaliev (UKIM Skopje) will lead this town hall meeting, which will address key issues related to Evidence’s long-term success and maintainability.</p>
+    time: 11:30-12:00
+    place: ""
+    image: nikola_talk.png
   - title: "Lunch Break"
-    time: 11:30-13:00
+    time: 12:00-13:00
     place: ""
     image: evi_food.png
     text:  <p class='break-random'><br>Please update your biological runtime with carbs. Failure to patch may cause spontaneous segmentation faults.</p>
-  - title: "Plenary talk by Xue (Steve) Liu"
-    time: 13:00-13:30
-    place: ""
-    image: liu.png
-    text:  <b class="title-random">🏅 TBD </b><p class="break-random"><br>Associate VP for Research and Professor of Machine Learning and Computer Science at MBZUAI, on leave from McGill University's School of Computer Science. Previously VP R&D and Chief Scientist at Samsung AI Center Montreal, and Chief Scientist at Tinder, with earlier stints at HP Labs and IBM T. J. Watson. IEEE Fellow, Fellow of the Canadian Academy of Engineering, former chair of ACM SIGBED, author of over 400 papers across intelligent computing systems, IoT, cyber physical systems, and sustainable computing.</p>
-  - title: "Lightning Talks"
-    time: 13:30-14:00
-    image: evi_light.png
-    text:  <p class='break-random'><br>A series of five-minute talks by experts and builders shaping the next-generation publishing platform ecosystem.</p>
-  - title: Townhall Meeting with Nikola Stikov
-    text: <b class='title-random'>⎈ Evidence Chair </b><p class='break-random'><br>Nikola Stikov is a professor of biomedical engineering, a researcher at the Montreal Heart Institute, and co-director of NeuroPoly, the Neuroimaging Research Laboratory at Polytechnique Montréal. He will lead this town hall meeting, which will address key issues related to Evidence’s long-term success and maintainability.</p>
-    time: 14:00-16:00
-    place: ""
-    image: nikola_talk.png
   - title: "Social Gathering"
     text: <p class='break-random'><br>Initiating peer-to-peer human networking protocol. No API keys required.</p>
     time: 21:00-23:00
