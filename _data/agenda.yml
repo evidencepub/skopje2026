@@ -19,20 +19,25 @@ saturday1:
     image: evi_cafe.png
     text:  <p class='break-random'><br>Time for a peer-reviewed caffeine intervention. Refuel before the next round of evidence.</p>
   - title: "Evidence team: Agah Karakuzu"
-    time: 11:00-11:30
+    time: 11:00-11:20
     place: ""
     image: agah_talk.png
     text:  "<b class='title-random'>🤖 Agents of the Woven Literature </b><p class='break-random'><br>Agah Karakuzu serves as the principal engineer and technical lead for Evidence, guiding its architecture and development. His talk will explore its newest advances in response to the accelerating pace of AI: the woven literature.</p>"
-  - title: Townhall Meeting with Sun Zhe, Bas Rokers, Nikola Stikov, and Ordan Chukaliev
-    text: <b class='title-random'>⎈ Evidence Chairs </b><p class='break-random'><br>Sun Zhe (Juntendo University), Bas Rokers (NYU Abu Dhabi), Nikola Stikov (Polytechnique Montreal), and Ordan Chukaliev (UKIM Skopje) will lead this town hall meeting, which will address key issues related to Evidence’s long-term success and maintainability.</p>
-    time: 11:30-12:00
+  - title: "Invited talk: Matthew Akamatsu"
+    time: 11:20-11:40
     place: ""
-    image: nikola_talk.png
-  - title: "Lunch Break"
+    image: akamatsu_talk.png
+    text:  "<b class='title-random'>🕸️ Discourse Graphs </b><p class='break-random'><br>Matthew Akamatsu is an Assistant Professor of Biology at the University of Washington, where his lab combines mathematical modeling, genome editing of human stem cells, and fluorescence microscopy to study how the actin cytoskeleton produces force. His talk will present discourse graphs, which capture research as a network of questions, claims, and the evidence behind them rather than as isolated papers.</p>"
+  - title: "Invited talk: Kiril Gashteovski"
+    time: 11:40-12:00
+    place: ""
+    image: kiril_talk.png
+    text:  "<b class='title-random'>⚖️ Peer Review Using AI </b><p class='break-random'><br>Kiril Gashteovski is a Principal Researcher in the Human-Centered AI group at NEC Laboratories Europe, working on natural language processing, knowledge graphs, and explainable AI. His talk will cover what AI reviewers do well and where they fall short, drawing on <a href='https://arxiv.org/abs/2605.20668' target='_blank'>a study</a> in which 45 expert scientists rated human and AI reviews of Nature-family papers.</p>"
+  - title: Lunch Round Table Discussion with Sun Zhe, Bas Rokers, Nikola Stikov, and Ordan Chukaliev
+    text: <b class='title-random'>⎈ Evidence Chairs </b><p class='break-random'><br>Over lunch, Sun Zhe (Juntendo University), Bas Rokers (NYU Abu Dhabi), Nikola Stikov (Polytechnique Montreal), and Ordan Chukaliev (UKIM Skopje) will lead a round table discussion on key issues related to Evidence’s long-term success and maintainability.</p>
     time: 12:00-13:00
     place: ""
     image: evi_food.png
-    text:  <p class='break-random'><br>Please update your biological runtime with carbs. Failure to patch may cause spontaneous segmentation faults.</p>
   - title: "Evidence Social"
     text: <b class='title-random'>🎉 Sponsored by Foundation KANTAROT</b><p class='break-random'><br>Initiating peer-to-peer human networking protocol. No API keys required.<br><br>📍 KANTAROT Headquarters, Boul. Ilinden 41, Skopje — <a href="https://maps.app.goo.gl/hpjMcL3FCcJ4RYZw6" target="_blank">view on map</a></p>
     time: 18:00-20:00
