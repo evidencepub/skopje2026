@@ -23,16 +23,16 @@ saturday1:
     place: ""
     image: agah_talk.png
     text:  "<b class='title-random'>🤖 Agents of the Woven Literature </b><p class='break-random'><br>Agah Karakuzu serves as the principal engineer and technical lead for Evidence, guiding its architecture and development. His talk will explore its newest advances in response to the accelerating pace of AI: the woven literature.</p>"
-  - title: "Talk by Matthew Akamatsu"
+  - title: "Invited talk: Matthew Akamatsu"
     time: 11:20-11:40
     place: ""
-    image: organization/akamatsu.png
-    text:  "<b class='title-random'>🔬 Discourse Graphs </b><p class='break-random'><br>Assistant Professor of Biology at the University of Washington. His lab combines mathematical modeling, genome editing of human stem cells, and fluorescence microscopy to study how the actin cytoskeleton produces force to bend and traffic cellular membranes.</p>"
-  - title: "Talk by Kiril Gashteovski"
+    image: akamatsu_talk.png
+    text:  "<b class='title-random'>🕸️ Discourse Graphs </b><p class='break-random'><br>Matthew Akamatsu is an Assistant Professor of Biology at the University of Washington, where his lab combines mathematical modeling, genome editing of human stem cells, and fluorescence microscopy to study how the actin cytoskeleton produces force. His talk will present discourse graphs, which capture research as a network of questions, claims, and the evidence behind them rather than as isolated papers.</p>"
+  - title: "Invited talk: Kiril Gashteovski"
     time: 11:40-12:00
     place: ""
-    image: organization/gashteovski.jpg
-    text:  "<b class='title-random'>💬 Peer Review Using AI </b><p class='break-random'><br>Kiril Gashteovski (NEC Laboratories Europe) will talk about using AI in peer review.</p>"
+    image: kiril_talk.png
+    text:  "<b class='title-random'>⚖️ Peer Review Using AI </b><p class='break-random'><br>Kiril Gashteovski is a Principal Researcher in the Human-Centered AI group at NEC Laboratories Europe, working on natural language processing, knowledge graphs, and explainable AI. His talk will cover what AI reviewers do well and where they fall short, drawing on <a href='https://arxiv.org/abs/2605.20668' target='_blank'>a study</a> in which 45 expert scientists rated human and AI reviews of Nature-family papers.</p>"
   - title: Lunch Round Table Discussion with Sun Zhe, Bas Rokers, Nikola Stikov, and Ordan Chukaliev
     text: <b class='title-random'>⎈ Evidence Chairs </b><p class='break-random'><br>Over lunch, Sun Zhe (Juntendo University), Bas Rokers (NYU Abu Dhabi), Nikola Stikov (Polytechnique Montreal), and Ordan Chukaliev (UKIM Skopje) will lead a round table discussion on key issues related to Evidence’s long-term success and maintainability.</p>
     time: 12:00-13:00
