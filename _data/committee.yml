@@ -27,6 +27,10 @@ people:
     image:  ordan.jpg
     affiliation: UKIM Skopje
     url: https://www.researchgate.net/profile/Ordan-Chukaliev
+  - name: "Valentina Gecevska"
+    image:  gecevska.jpg
+    affiliation: UKIM Skopje
+    url: https://www.mf.ukim.edu.mk/mk/content/%D0%B3%D0%B5%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0
   - name: "Patrick Bermudez"
     image:  bermudez.jpg
     affiliation: McGill University
@@ -39,10 +43,26 @@ people:
     image:  lameski.jpg
     affiliation: UKIM Skopje
     url: https://scholar.google.com/citations?hl=en&user=eidg6REAAAAJ
+  - name: "Vladimir Atanasovski"
+    image:  atanasovski.jpg
+    affiliation: UKIM Skopje
+    url: https://feit.ukim.edu.mk/staff/vladimir-atanasovski/
   - name: "Vladimir Trajkovik"
     image:  trajkovik.jpg
     affiliation: UKIM Skopje
     url: https://scholar.google.com/citations?hl=en&user=M5LDCMUAAAAJ
+  - name: "Dimitar Tashkovski"
+    image:  tashkovski.jpg
+    affiliation: UKIM Skopje
+    url: https://feit.ukim.edu.mk/en/staff/dimitar-tashkovski/
+  - name: "Hristijan Gjoreski"
+    image:  gjoreski.jpg
+    affiliation: UKIM Skopje
+    url: https://scholar.google.com/citations?user=LOpq5BoAAAAJ&hl=en
+  - name: "Gabriela Novotni"
+    image:  novotni.jpg
+    affiliation: UKIM Skopje
+    url: https://www.researchgate.net/profile/Gabriela-Novotni
   - name: "Viktor Stojkoski"
     image:  stojkoski.jpg
     affiliation: UKIM Skopje
@@ -63,6 +83,9 @@ people:
     image:  gashteovski.jpg
     affiliation: NEC Laboratories Europe
     url: https://scholar.google.com/citations?hl=en&user=ZO5DW7MAAAAJ
+  - name: "Morane Bienvenu"
+    image: morane.png
+    affiliation: Polytechnique Montreal
 speakers:
   - name: "Alan Evans"
     image: evans.jpg
