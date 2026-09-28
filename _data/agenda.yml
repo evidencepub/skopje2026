@@ -27,7 +27,7 @@ saturday1:
     time: 11:20-11:40
     place: ""
     image: akamatsu_talk.png
-    text:  "<b class='title-random'>🕸️ Discourse Graphs </b><p class='break-random'><br>Matthew Akamatsu is an Assistant Professor of Biology at the University of Washington, where his lab combines mathematical modeling, genome editing of human stem cells, and fluorescence microscopy to study how the actin cytoskeleton produces force. His talk will present discourse graphs, which capture research as a network of questions, claims, and the evidence behind them rather than as isolated papers.</p>"
+    text:  "<b class='title-random'>🕸️ MIRA: Modular Interoperable Research Attribution </b><p class='break-random'><br>Matthew Akamatsu is an Assistant Professor of Biology at the University of Washington and the 2026–2027 Resident in Open Science at the Astera Institute. His talk will present <a href='https://mira.science' target='_blank'>MIRA.science</a>, a protocol and toolkit that organizes research into an auditable network of claims and evidence to coordinate discoveries between humans and AI agents.</p>"
   - title: "Invited talk: Kiril Gashteovski"
     time: 11:40-12:00
     place: ""
