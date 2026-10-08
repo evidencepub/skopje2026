@@ -3,12 +3,12 @@ saturday1:
     time: 9:00-9:30
     image: boyd.png
     text:  <b class='title-random'>🏅 TBD </b><p class='break-random'> <br> Samsung Professor in the School of Engineering and Professor of Electrical Engineering at Stanford, where he chairs the EE department. His work is on convex optimization and its applications in control, signal processing, machine learning, and finance. Few researchers have done more to close the gap between a published mathematical result and software that anyone can actually run, and Dr. Boyd is one of them. </p>
-  - title: "Plenary talk by Vanja Josifovski"
+  - title: "Plenary talk by Jingang Qu (remote)"
     time:  9:30-10:00
     place: ""
-    image: organization/vanja.png
-    text:  <b class='title-random'>🏅 TBD</b><p class='break-random'> <br> Builder of large scale systems that reason over structured and relational data. He was a research scientist at IBM and Yahoo Research, then CTO at Pinterest and later CTO of Homes at Airbnb, before co-founding Kumo AI, whose relational foundation models make predictions directly over a database graph rather than a flattened feature table. NVIDIA acquired Kumo in June 2026 and he moved there with it. His career is a long argument that the structure between records is where the signal lives.</p>
-  - title: "Plenary talk by Xue (Steve) Liu"
+    image: organization/qu.png
+    text:  <b class='title-random'>🏅 TBD</b><p class='break-random'> <br> Researcher at NVIDIA in Paris, working on AI for graph and structured data. Before NVIDIA he was a postdoctoral researcher in the SODA team at Inria Saclay, and he earned his PhD in machine learning at Sorbonne University (ISIR), where he used deep learning to accelerate numerical simulations. He is the lead author of TabICL, an open tabular foundation model that learns in context from hundreds of thousands of rows and outperforms gradient boosted trees on large tables.</p>
+  - title: "Plenary talk by Xue (Steve) Liu (remote)"
     time: 10:00-10:30
     place: ""
     image: liu.png
@@ -16,7 +16,7 @@ saturday1:
   - title: "Coffee Break"
     time:  10:30-11:00
     place: ""
-    image: evi_cafe.png
+    image: evi_break.png
     text:  <p class='break-random'><br>Time for a peer-reviewed caffeine intervention. Refuel before the next round of evidence.</p>
   - title: "Evidence team: Agah Karakuzu"
     time: 11:00-11:20
@@ -37,7 +37,7 @@ saturday1:
     text: <b class='title-random'>⎈ Evidence Chairs </b><p class='break-random'><br>Over lunch, Sun Zhe (Juntendo University), Bas Rokers (NYU Abu Dhabi), Nikola Stikov (Polytechnique Montreal), and Ordan Chukaliev (UKIM Skopje) will lead a round table discussion on key issues related to Evidence’s long-term success and maintainability.</p>
     time: 12:00-13:00
     place: ""
-    image: evi_food.png
+    image: evi_break.png
   - title: "Evidence Social"
     text: <b class='title-random'>🎉 Sponsored by Foundation KANTAROT</b><p class='break-random'><br>Initiating peer-to-peer human networking protocol. No API keys required.<br><br>📍 KANTAROT Headquarters, Boul. Ilinden 41, Skopje — <a href="https://maps.app.goo.gl/hpjMcL3FCcJ4RYZw6" target="_blank">view on map</a></p>
     time: 18:00-20:00

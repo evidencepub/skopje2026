@@ -3,11 +3,13 @@ people:
     image:  boyd.png
     affiliation: Stanford University (USA)
     url: https://web.stanford.edu/~boyd/
-  - name: "Vanja Josifovski"
-    image:  vanja.png
-    affiliation: NVIDIA (USA)
-    url: https://www.linkedin.com/in/vjosifovski/
+  - name: "Jingang Qu"
+    title: Remote presentation
+    image:  qu.png
+    affiliation: NVIDIA (France)
+    url: https://www.linkedin.com/in/jingang-qu-0a80a5138/
   - name: "Xue (Steve) Liu"
+    title: Remote presentation
     image:  liu.png
     affiliation: MBZUAI (UAE), McGill University (Canada)
     url: https://cs.mcgill.ca/~xueliu/site/intro.html
