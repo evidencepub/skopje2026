@@ -12,7 +12,7 @@ saturday1:
     time: 10:00-10:30
     place: ""
     image: liu.png
-    text:  <b class="title-random">🏅 TBD </b><p class="break-random"><br>Associate VP for Research and Professor of Machine Learning and Computer Science at MBZUAI, on leave from McGill University's School of Computer Science. Previously VP R&D and Chief Scientist at Samsung AI Center Montreal, and Chief Scientist at Tinder, with earlier stints at HP Labs and IBM T. J. Watson. IEEE Fellow, Fellow of the Canadian Academy of Engineering, former chair of ACM SIGBED, author of over 400 papers across intelligent computing systems, IoT, cyber physical systems, and sustainable computing.</p>
+    text:  <b class="title-random">🏅 TBD </b><p class="break-random"><br>Professor of Machine Learning and Computer Science at MBZUAI, on leave from McGill University's School of Computer Science. Previously VP R&D and Chief Scientist at Samsung AI Center Montreal, and Chief Scientist at Tinder, with earlier stints at HP Labs and IBM T. J. Watson. IEEE Fellow, Fellow of the Canadian Academy of Engineering, former chair of ACM SIGBED, author of over 400 papers across intelligent computing systems, IoT, cyber physical systems, and sustainable computing.</p>
   - title: "Coffee Break"
     time:  10:30-11:00
     place: ""
