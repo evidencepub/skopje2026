@@ -15,6 +15,10 @@ people:
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
     url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/bas-rokers.html
+  - name: "Xue (Steve) Liu"
+    image:  liu_committee.jpg
+    affiliation: MBZUAI
+    url: https://cs.mcgill.ca/~xueliu/site/intro.html
   - name: "Dmitry Novikov"
     image:  novikov.png
     affiliation: NYU Langone Health
